@@ -1,0 +1,12 @@
+#rectangle {
+  height: <?php echo  $_GET['length'] ?>;
+
+  width: <?php echo $_GET['width'] ?>;
+
+  border: 2px solid black;
+
+}
+
+h1 {
+  color: red;
+}
